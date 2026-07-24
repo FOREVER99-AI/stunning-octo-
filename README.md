@@ -9,4 +9,4 @@
 
 ## Contacto
 - Github: FOREVER99-AI
-- Correo: andrescamargo99@icloud.com
+- Correo: jorgeleonardo9939@gmail.com
