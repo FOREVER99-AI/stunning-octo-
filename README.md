@@ -5,7 +5,7 @@
 - 🤝 Disponible para colaborar en proyectos de código abierto.
 
 ## Tecnologías
-- Herramientas: Git, Python
+- Herramientas: Python
 
 ## Contacto
 - Github: FOREVER99-AI
